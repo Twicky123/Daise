@@ -1,0 +1,7 @@
+pandas
+tensorflow
+tqdm
+numpy
+opencv_python
+Flask
+tensorflow_datasets
